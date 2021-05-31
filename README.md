@@ -1,7 +1,7 @@
 # CreditCard-Fraud-Detection
 
 This project was done as a part of hackathon organised by MasterCard and BrainStation. 
-We were provided with a dataset of thousands of transactions where around 2% transactions are flaaged as fraud.
+We were provided with a dataset of thousands of transactions where around 2% transactions are flagged as fraud.
 
 ## Data Source
 Dataset for this project can be found in following link: 
